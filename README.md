@@ -14,7 +14,8 @@ Now here's what we're meant to do:
 
 >>First team who delivers a fully working product wins. Criteria to win: website does not have glitches. File uploads fine. Textual output shows (two variants).
 
-So here's the goodnews...we are winning this. Now lets get to WORK.
+#     Goodnews...
+We are winning this. Now lets get to WORK.
 
 ---------Suggestions--------
 Suggestions are highly welcomed.
